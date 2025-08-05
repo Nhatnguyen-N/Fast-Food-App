@@ -4,11 +4,16 @@ link github:https://github.com/adrianhajdin/food_ordering/blob/main/app/(tabs)/_
 
 
 day 1:   1:54:41.
+day 2:   3:31:44.
 
 
 
 Appwrite => database, backend.
 auth ==> Appwrite.
+
+fix bug =====> sentry.
+
+store ===> zustand.
 
 
 cn ==>clsx ===> className có thể thêm if else ==>
