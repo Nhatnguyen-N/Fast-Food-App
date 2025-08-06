@@ -5,6 +5,7 @@ link github:https://github.com/adrianhajdin/food_ordering/blob/main/app/(tabs)/_
 
 day 1:   1:54:41.
 day 2:   3:31:44.
+day 3:   Done Part 1.
 
 
 
